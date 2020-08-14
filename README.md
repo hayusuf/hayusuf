@@ -1,1 +1,1 @@
-![Hello, I am Yusuf. ](https://github.com/hayusuf/hayusuf/raw/master/bg.gif)
+## :octocat::star:Welcome to my github!:star::octocat:  
