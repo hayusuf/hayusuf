@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Yusuf,<br>I enjoy building interesting software projects 🚀,<br>watching movies🎥, and hanging out with others 🥳.<br><br>I am graduating May 2025 🎓 and<br>looking for New Grad Software Engineering positions 🔎<br><br>Check me out at hayusuf.notion.site!
+👋 Hello!, I'm Yusuf<br>I enjoy building interesting software projects 🚀,<br>watching movies🎥, and hanging out with others 🥳.<br><br>I am graduating May 2025 🎓 and<br>looking for New Grad Software Engineering positions 🔎<br><br>Check me out at hayusuf.notion.site!
 
 
 ## 🌐 Socials:
